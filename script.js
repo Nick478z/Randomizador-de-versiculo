@@ -7,7 +7,16 @@ const versiculos = [
     },
     {
         livro:"João", capitulo: 16, versiculo:33, texto:"Tenho-vos dito isto, para que em mim tenhais paz; no mundo tereis aflições, mas tende bom ânimo, eu venci o mundo."
-    }
+    },
+    {
+        livro:"Provérbios", capitulo: 4, versiculo:23, texto:"Sobre tudo o que se deve guardar, guarda o teu coração, porque dele procedem as fontes da vida"
+    },
+    {
+        livro:"Filipenses", capitulo: 4, versiculo:6, texto:"Não andem ansiosos por coisa alguma, mas em tudo, pela oração e súplicas, e com ação de graças, apresentem seus pedidos a Deus."     
+    },
+    {
+        livro:"Gênesis", capitulo: 4, versiculo:7, texto:"Se procederes bem, não é certo que serás aceito? Se, todavia, procederes mal, eis que o pecado jaz à porta; o seu desejo será contra ti, mas a ti cumpre dominá-lo"   
+    },
 ];
 
 function sortearVersiculo (){
