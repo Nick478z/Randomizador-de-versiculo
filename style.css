@@ -1,5 +1,4 @@
 *{
-    margin: 0%;
     padding: 0%;
     font-family: 'arial';
     text-align: center;
@@ -13,7 +12,7 @@ section img{
 header{
     text-align: center;
     font-size: 22px;
-    padding: 20px;
+    padding: 10px;
     margin-left: 40px;
     margin-right: 40px;
     border-bottom: 5px solid white;
@@ -26,8 +25,6 @@ body{
 
 #versiculo{
     margin-top:20px;
-    margin-left: 200PX;
-    margin-right: 200PX;
     padding: 20px;
     background-color: white;
     border: 2px solid rgb(48, 45, 48);
