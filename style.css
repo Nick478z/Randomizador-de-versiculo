@@ -57,10 +57,38 @@ body{
     background-color: rgb(4, 160, 4);
 }
 
+
+.content img{
+   width: 190px;
+}
+
+.content{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+}
+
+
 @media (max-width: 650px) {
     #versiculo{
         margin-left: 40px;
         margin-right: 40px;
     }
-}
 
+    .content{
+        display: grid;
+    }
+
+    .content img{
+        margin-left: 20%;
+    }
+
+    header{
+        border-radius: 0px 0px 20px 20px;
+    }
+    
+}
